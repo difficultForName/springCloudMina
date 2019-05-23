@@ -8,6 +8,7 @@ public class UserController {
 
     @GetMapping("/getUser")
     public String getUser() {
+        System.out.println("这边输出getUser");
         return "I am user list222.";
     }
 }
