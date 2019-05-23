@@ -3,23 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="56ed5321-2f1e-43d3-ae4b-4e1053d44a59" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud-user/src/main/java/com/yp/mina/springclouduser/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-user/src/main/java/com/yp/mina/springclouduser/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud-user1/src/main/java/com/yp/mina/springclouduser1/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-user1/src/main/java/com/yp/mina/springclouduser1/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud-user2/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud-user2/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud-user2/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud-user2/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud-user2/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud-user2/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud-user2/src/main/java/com/yp/mina/springclouduser2/SpringcloudUser2Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-user2/src/main/java/com/yp/mina/springclouduser2/SpringcloudUser2Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud-user2/src/main/java/com/yp/mina/springclouduser2/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-user2/src/main/java/com/yp/mina/springclouduser2/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud-zuul/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud-zuul/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud-zuul/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud-zuul/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud-zuul/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud-zuul/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud-zuul/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-zuul/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -98,8 +81,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/springcloud-zuul/src/main/java/com/yp/mina/springcloudzuul/SpringcloudZuulApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            <state relative-caret-position="161">
+              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -116,8 +99,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/springcloud-zuul/src/main/java/com/yp/mina/springcloudzuul/filter/MyFilter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="335">
-              <caret line="30" column="20" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
+            <state relative-caret-position="-80">
+              <caret line="29" column="24" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#734#735#0" expanded="true" />
@@ -329,7 +312,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558577710858" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558577884516" />
     <property name="last_opened_file_path" value="D:/project-company/192.168.171.1/svn/Metis/02-branch" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -587,12 +570,20 @@
       <workItem from="1558315242232" duration="7368000" />
       <workItem from="1558348899758" duration="1015000" />
       <workItem from="1558511852240" duration="4866000" />
-      <workItem from="1558572353960" duration="4687000" />
+      <workItem from="1558572353960" duration="4933000" />
     </task>
+    <task id="LOCAL-00001" summary="(+) 过滤器的初步使用">
+      <created>1558577767265</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1558577767265</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="79427000" />
+    <option name="totallyTimeSpent" value="79673000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -622,7 +613,7 @@
       <window_info anchor="bottom" id="Java Enterprise" order="13" />
       <window_info anchor="bottom" id="Database Changes" order="14" />
       <window_info anchor="bottom" id="Version Control" order="15" />
-      <window_info active="true" anchor="bottom" id="Run Dashboard" order="16" visible="true" weight="0.194051" />
+      <window_info active="true" anchor="bottom" id="Run Dashboard" order="16" visible="true" weight="0.53824365" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -637,6 +628,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="(+) 过滤器的初步使用" />
+    <option name="LAST_COMMIT_MESSAGE" value="(+) 过滤器的初步使用" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/springcloud-api/src/main/java/com/yp/mina/springcloudapi/SpringcloudApiApplication.java">
@@ -993,13 +988,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud-zuul/src/main/java/com/yp/mina/springcloudzuul/SpringcloudZuulApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/springcloud-user2/src/main/java/com/yp/mina/springclouduser2/UserController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -1007,10 +995,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-zuul/src/main/java/com/yp/mina/springcloudzuul/SpringcloudZuulApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/springcloud-zuul/src/main/java/com/yp/mina/springcloudzuul/filter/MyFilter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="30" column="20" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
+        <state relative-caret-position="-80">
+          <caret line="29" column="24" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#734#735#0" expanded="true" />
