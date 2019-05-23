@@ -2,19 +2,17 @@
 <project version="4">
   <component name="Encoding" addBOMForNewFiles="with NO BOM">
     <file url="file://$PROJECT_DIR$/eureka_server" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/gateway" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/rabbon_order" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/rabbon_user" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-api" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-config-client" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-config-server" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-eureka" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/springcloud-getway" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-orderfeign" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-user" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-user1" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-user2" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/springcloud-zuul" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-zuul" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/util" charset="UTF-8" />
   </component>

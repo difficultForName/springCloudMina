@@ -14,6 +14,7 @@
         <module name="springcloud-config-server" />
         <module name="springcloud-eureka" />
         <module name="springcloud-order" />
+        <module name="springcloud-orderfeign" />
         <module name="springcloud-user" />
         <module name="springcloud-user1" />
         <module name="springcloud-user2" />
@@ -46,6 +47,7 @@
       <module name="springcloud-eureka" options="-parameters" />
       <module name="springcloud-getway" options="-parameters" />
       <module name="springcloud-order" options="-parameters" />
+      <module name="springcloud-orderfeign" options="-parameters" />
       <module name="springcloud-user" options="-parameters" />
       <module name="springcloud-user1" options="-parameters" />
       <module name="springcloud-user2" options="-parameters" />
